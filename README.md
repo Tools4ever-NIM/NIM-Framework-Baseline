@@ -27,15 +27,19 @@ The purpose of this repository to build a framework that can be used as a jump o
 - AD User Create
 - AD User Duplicates
 - Audit App
-- Config Locations
+- Change Password
 - Dashboard
+- Delegated Password Reset
+- Delegated Password Reset Config
 - Google User Correlation
 - Google User Duplicates
+- Manage Enrollment
 - NIM User Management
 - Onboarding
+- Onboarding Management
 - Override Flags
 - Password Reset
-- Temporary Elevated Access Management (TEAM)
+- Role Group Overides
 
 ## Automations
 - AD to NIM Sync
