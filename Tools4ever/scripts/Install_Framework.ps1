@@ -43,7 +43,7 @@ if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
             $downloadPath = "$($tempPath)\$($dir)"
             $dumpFile = "$($downloadPath)\$($zip)"
             New-Item $downloadPath -ItemType Directory -Force >$null 2>&1
-            Write-Host Downloading latest release
+            Write-Host "Downloading..."
             Invoke-WebRequest $download -Out $dumpFile
 
             $expandPath = "$($tempPath)\_installation"

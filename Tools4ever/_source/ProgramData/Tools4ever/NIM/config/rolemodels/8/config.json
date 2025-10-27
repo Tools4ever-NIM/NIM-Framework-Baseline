@@ -1,0 +1,1 @@
+{"use":"development","date_start":0,"date_end":0,"comment":"","version":1,"scope":{"items":[{"systemName":"internal","memberColName":"users","filterInclude":"[all]","filterIncludeColumn":"","filterExclude":"RoleModel_Scope_NIM_Exclude","filterExcludeColumn":"ID","grant":true,"revoke":true,"used":true}]}}
