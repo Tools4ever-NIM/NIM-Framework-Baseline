@@ -1,0 +1,1 @@
+{"name":"ADUserCorrelation_Duplicates","query":"SELECT * FROM `f_App_ADUserCorrelation_Duplicates` WHERE `count` > 1","params":[],"columns":[{"name":"ID","type":0},{"name":"Type","type":0},{"name":"ObjectGUIDs","type":0},{"name":"Usernames","type":0},{"name":"count","type":0}]}

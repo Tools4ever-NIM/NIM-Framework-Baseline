@@ -1,0 +1,1 @@
+{"name":"GoogleUserCorrelation_Duplicates","query":"SELECT * FROM `f_App_GoogleUserCorrelation_Duplicates` WHERE `count` > 1","params":[],"columns":[{"name":"ID","type":0},{"name":"Type","type":0},{"name":"IDs","type":0},{"name":"Usernames","type":0},{"name":"count","type":0}]}
