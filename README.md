@@ -1,4 +1,4 @@
-# NIM-Framework-Baseline
+# NIM Baseline Framework
 
 # Purpose
 The purpose of this repository to build a framework that can be used as a jump off point to build a lifecycle automation in NIM. This will also contain other useful tools to help you enhance you experience with NIM.
@@ -24,21 +24,22 @@ The purpose of this repository to build a framework that can be used as a jump o
 ## Apps
 - AD Group Management
 - AD User Correlation
-- AD User Create
-- AD User Duplicates
 - Audit App
 - Change Password
-- Dashboard
-- Delegated Password Reset
+- Create AD User
 - Delegated Password Reset Config
+- Delegated Password Reset
+- Dashboard
+- Emergency Termination
 - Google User Correlation
-- Google User Duplicates
 - Manage Enrollment
-- NIM User Management
+- Manual User Manager
+- NIM Account Management
 - Onboarding
 - Onboarding Management
 - Override Flags
 - Password Reset
+- Password Reset (Delegated)
 - Role Group Overides
 
 ## Automations
